@@ -1,0 +1,17 @@
+
+words = {
+   "one" : "eins",
+   "two" : "zwei",
+   "three" : "drei",
+   "four" : "vier",
+   "five" : "funf",
+   "six" : "sechs",
+   "seven" : "sieben",
+   "eight" : "acht",
+   "nine" : "neun",
+   "ten" : "zehn",
+}
+
+print words
+   
+   
